@@ -3,11 +3,13 @@
 (Regularly updated)
 
 This repo will contain or contains ML and AI usecases for Healthcare and Hospital, such as: 
-1. Drug Quality or Similarity Assessment 
-2. Drug discovery
-3. Patient diagnosis
-4. Simulation and Modeling
-5. Supply-chain managment and inventory planning
+1. Time series forecasting
+2. Targeted marketing
+4. Drug quality or similarity Assessment 
+5. Drug discovery
+6. Patient diagnosis
+7. Simulation and modeling
+8. Supply-chain managment and inventory planning
 
 
 # Author
