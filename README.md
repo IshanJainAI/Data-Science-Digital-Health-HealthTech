@@ -2,7 +2,7 @@
 
 (Regularly updated)
 
-This repo will contain or contains ML and AI usecases for Healthcare and Hospital, such as: 
+This repo contains ML and AI usecases for Healthcare and Hospital, such as: 
 1. Time series forecasting
 2. Targeted marketing
 4. Drug quality or similarity Assessment 
